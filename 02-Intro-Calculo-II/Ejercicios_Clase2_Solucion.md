@@ -9,7 +9,7 @@
                             -3 si x<=0
 
 
-**2)** Responde V o F - continuidad
+**2)** Responde V o F - continuidad #esto es una prueba
 
     a- La función g(j) = j + 3 es continua en todo su dominio       Verdadero
     b- La función g(j) = 3 * j - 2 no esta definida en todo R       Falso
